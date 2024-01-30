@@ -39,4 +39,7 @@ No, changing the fee amount will not affect existing orders. It will only reflec
 2. Checkout page where the additional fee defined by the admin is added to the customer's order total amount.
 
 
+![screenshot-1](https://github.com/Deepak6440/woocommerce-additional-charges/assets/59681582/45c9400c-ec8b-4bc9-a750-fa2be4cded6b)
+![screenshot-2](https://github.com/Deepak6440/woocommerce-additional-charges/assets/59681582/16fe974e-8e4d-4048-ae28-73be24b1aec1)
+
 
